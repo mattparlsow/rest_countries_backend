@@ -1,0 +1,11 @@
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\CountriesBackend.exe
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\appsettings.json
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\CountriesBackend.dll
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\CountriesBackend.deps.json
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\CountriesBackend.runtimeconfig.json
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\CountriesBackend.pdb
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matth\OneDrive\Documents\Annexio\country_app\CountriesBackend\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
